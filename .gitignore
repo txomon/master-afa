@@ -5,3 +5,8 @@
 *.xmsgs
 *.prj
 iseconfig
+*.log
+*.exe
+*.ini
+isim
+*.wdb
