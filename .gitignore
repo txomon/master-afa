@@ -44,3 +44,6 @@ _ngo
 *.csv
 xst
 xlnx*/
+*.bmm
+*.nlf
+*_synthesis.vhd
